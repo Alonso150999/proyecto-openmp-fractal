@@ -1,0 +1,12 @@
+Scheduler,Chunk,Mandelbrot
+static,default,4.4669
+dynamic,1,2.18801
+dynamic,4,2.2031
+dynamic,8,2.21858
+dynamic,16,2.4751
+dynamic,32,2.21502
+guided,1,4.69047
+guided,4,4.68976
+guided,8,4.68939
+guided,16,4.69459
+guided,32,4.67112
