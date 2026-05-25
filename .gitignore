@@ -1,0 +1,20 @@
+# Ejecutables
+secuencial
+openmp_base
+schedulers
+histograma
+vectorizacion
+
+# Salidas grandes
+output/*.ppm
+output/*.pgm
+output/*.png
+
+# Archivos temporales
+*.o
+*.out
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
